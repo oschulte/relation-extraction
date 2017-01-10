@@ -18,12 +18,16 @@ Summary
 	Author:  proposes a deep learning approach based on stacked denoising auto-encoder to capture sentence level features for the
 		manufacturing relationships extraction issue in social manufacturing paradigm.
 
+Oliver
+
 ============================================================
 <Relevant>
 2016 Budai Learning relations using semantic-based vector similarity
 
 	Author:  goal here is to identify in an unsupervised manner relations between known medical concepts 
 			employing a deep learning strategy with Word2Vec. 
+
+Oliver
 ============================================================
 <Relevant>
 2015 Zhang, Relation Classification via Recurrent Neural Network
@@ -31,6 +35,8 @@ Summary
 	Goal: learn temporal features, especially long distance dependency between nominal parts.
 
 	Author Propose a framework based on RNN and compare with CNN
+
+Oliver
 ============================================================
 <Relevant>
 2015 Zeng, Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
@@ -62,6 +68,8 @@ Summary
 	Comment 02: * Author say that there is no work  on employing CNNs for relation extraction so far. 
         	                         and it is the first work *
 	Comment 03: I saw some similar in (2015 Zeng)
+
+Oliver
 ============================================================
 2014 Zeng, Relation Classification via Convolutional Deep Neural Network
 
